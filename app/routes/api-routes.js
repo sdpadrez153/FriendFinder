@@ -1,4 +1,4 @@
-const friends = require('../data/friends.js');
+const friends = require("s../data/friends.js");
 
 //Routes
 module.exports = function(app) {
