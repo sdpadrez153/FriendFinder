@@ -9,16 +9,16 @@ Will need to install npm packages: express and path from the server.js file.
 
 Home Page:
 
-![Image of Home Page ](https://github.com/sdpadrez153/Bamazon/blob/master/Images/BamazonCustomerStart.png)
+![Image of Home Page ](https://github.com/sdpadrez153/FriendFinder/blob/master/images/Main.png?raw=true)
 
 Survey Body
 
-![Image of Survey Body ](https://github.com/sdpadrez153/Bamazon/blob/master/Images/BamazonCustomerStart.png)
+![Image of Survey Body ](https://github.com/sdpadrez153/FriendFinder/blob/master/images/Survey.png?raw=true)
 
 Survey Questions
 
-![Image of Survey Questions ](https://github.com/sdpadrez153/Bamazon/blob/master/Images/BamazonCustomerStart.png)
+![Image of Survey Questions ](https://github.com/sdpadrez153/FriendFinder/blob/master/images/surveyQuestions.png?raw=true)
 
 Celebrity Match
 
-![Image of Celebrity Match ](https://github.com/sdpadrez153/Bamazon/blob/master/Images/BamazonCustomerStart.png)
+![Image of Celebrity Match ](https://github.com/sdpadrez153/FriendFinder/blob/master/images/celebrityMatch.png?raw=true)
